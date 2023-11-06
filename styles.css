@@ -1,0 +1,81 @@
+/* Place your CSS styles in this file */
+
+.h1 {
+    text-align: center;
+    font-family: "Syne", sans-serif;
+    font-weight: normal;
+    color: gray;
+}
+
+
+body {
+  background-image: url('https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.w3-margin {
+  margin-top: 20px;
+  margin-left: 45%;
+}
+
+.h2 {
+  color: white;
+  font-family: Cabin, sans-serif;
+  margin-left: 10px;
+}
+
+.a {
+  color: gray;
+  font-size: x-small;
+}
+
+.all {
+  color: gray;
+  font-size: medium;
+}
+
+.about {
+  color: white;
+  font-size: x-large;
+  position: absolute;
+  top: 60%;
+  left: 2.5%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.welcome-text {
+  left: 1%;
+  color: white;
+  font-size: 100px;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 35%;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  color: rgb(0, 0, 0); 
+  border: 2px solid #ffffff;
+}
+
+.button1:hover {
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+    border: 2px solid #000000;
+}
