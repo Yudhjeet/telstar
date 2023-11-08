@@ -1,3 +1,6 @@
-# 🚀Telstar.io
- Telstar.io is a my portoflio with brief information about me and my skills. It is built purely on HTML5 and CSS. It uses Vercel to deploy itself. Previously it was hosted by w3spaces, but for long term sustainability, it was shifted to vercel.
- 
+# 🔗 What it was
+Telstar.io is a little project I made to sharpen my skills. It is a personal portfolio website, which displays my achievements and skills. It uses HTML for creation and CSS for style.
+
+Development on this program has been stopped since 8th of November, 2023. 
+
+# 🪦Telstar - 3/11/23 - 8/11/23
